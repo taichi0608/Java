@@ -1,0 +1,16 @@
+# ===== Eclipse workspace (絶対に共有しない) =====
+/.metadata/
+
+# ===== Eclipse / Tomcat server settings =====
+Servers/
+
+# ===== macOS =====
+.Trash/
+.DS_Store
+
+# ===== Java build artifacts =====
+bin/
+target/
+
+# ===== Logs =====
+*.log
