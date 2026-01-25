@@ -1,0 +1,49 @@
+=== バトル開始 ===
+テスト [HP=79, AT=10, SP=6]
+Daemon [HP=85, AT=12, SP=6]
+先攻: テスト
+
+【ターン 1】
+テスト の攻撃！
+Daemon [HP=75, AT=12, SP=6]
+Daemon の攻撃！
+テスト [HP=67, AT=10, SP=6]
+
+【ターン 2】
+テスト の攻撃！
+Daemon [HP=65, AT=12, SP=6]
+Daemon の攻撃！
+テスト [HP=55, AT=10, SP=6]
+
+【ターン 3】
+テスト の攻撃！
+Daemon [HP=55, AT=12, SP=6]
+Daemon の攻撃！
+テスト [HP=43, AT=10, SP=6]
+
+【ターン 4】
+テスト の攻撃！
+Daemon [HP=45, AT=12, SP=6]
+Daemon の攻撃！
+テスト [HP=31, AT=10, SP=6]
+
+【ターン 5】
+テスト の攻撃！
+Daemon [HP=35, AT=12, SP=6]
+Daemon の攻撃！
+テスト [HP=19, AT=10, SP=6]
+
+【ターン 6】
+テスト の攻撃！
+Daemon [HP=25, AT=12, SP=6]
+Daemon の攻撃！
+テスト [HP=7, AT=10, SP=6]
+
+【ターン 7】
+テスト の攻撃！
+Daemon [HP=15, AT=12, SP=6]
+Daemon の攻撃！
+テスト [HP=0, AT=10, SP=6]
+
+勝者: Daemon
+=== バトル終了 ===
